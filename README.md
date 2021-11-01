@@ -3,9 +3,7 @@
 <p align="center">
   <b>🌠</b><br>
   <a href="https://yonovaa.github.io/novawebsite/">Website</a> |
-  <a href="https://www.youtube.com/channel/UCZJMry5EiFINTjctJavdO5Q">YouTube</a> |
-  <a href="https://twitter.com/cnovaencore">Twitter</a> |
-  <a href="https://github.com/YoNovaa">Github</a>
+  <a href="https://twitter.com/cnovaencore">Twitter</a>
   <br><br>
   <img src="https://data.photofunky.net/output/image/e/6/7/c/e67c59/photofunky.gif"> <br>
   <!--<img src="https://discord.c99.nl/widget/theme-1/786717974325100564.png">-->
