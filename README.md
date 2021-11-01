@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">HELLO WORLD</h1>
 
-<!--
-**YoNovaa/YoNovaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🖤</b><br>
+  <a href="https://yonovaa.github.io/novawebsite/">Website</a> |
+  <a href="https://www.youtube.com/channel/UCZJMry5EiFINTjctJavdO5Q">YouTube</a> |
+  <a href="https://twitter.com/cnovaencore">Twitter</a> |
+  <a href="https://github.com/YoNovaa">Github</a>
+  <br><br>
+  <img src="https://media.discordapp.net/attachments/879205491954290778/879478268905021520/efsdfdsf.gif">
+  <br><br>
+  <!--<img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png">-->
+</p>
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
+👤 >> 15 yo, french.
+🗣️ >> nova#0009
+```
+
+-----
+
+<h1 align="center">LANGUAGE I USE</h1>
+
+<p align="center"> 
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp; |
+</p>
+
+<h1 align="center">LEARNING</h1>
+
+<p align="center"> 
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>&nbsp; |
+  <code><img height="25" src="https://img2.freepng.fr/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>&nbsp;
+</p>
+-----
