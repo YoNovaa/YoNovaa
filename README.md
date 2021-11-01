@@ -7,9 +7,9 @@
   <a href="https://twitter.com/cnovaencore">Twitter</a> |
   <a href="https://github.com/YoNovaa">Github</a>
   <br><br>
-  <img src="https://data.photofunky.net/output/image/e/6/7/c/e67c59/photofunky.gif">
-  <img src="https://discord.c99.nl/widget/theme-1/786717974325100564.png">-->
-  <br><br>
+  <img src="https://data.photofunky.net/output/image/e/6/7/c/e67c59/photofunky.gif"> <br>
+  <img src="https://discord.c99.nl/widget/theme-1/786717974325100564.png">
+  <br>
 </p>
 
 -----
