@@ -1,7 +1,7 @@
 <h1 align="center">HI</h1>
 
 <p align="center">
-  <b>🖤</b><br>
+  <b>🌠</b><br>
   <a href="https://yonovaa.github.io/novawebsite/">Website</a> |
   <a href="https://www.youtube.com/channel/UCZJMry5EiFINTjctJavdO5Q">YouTube</a> |
   <a href="https://twitter.com/cnovaencore">Twitter</a> |
@@ -34,4 +34,3 @@
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>&nbsp; |
   <code><img height="25" src="https://img2.freepng.fr/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>&nbsp;
 </p>
------
