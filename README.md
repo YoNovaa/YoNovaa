@@ -5,7 +5,7 @@
   <a href="https://yonovaa.github.io/novawebsite/">Website</a> |
   <a href="https://twitter.com/cnovaencore">Twitter</a>
   <br><br>
-  <img src="https://data.photofunky.net/output/image/e/6/7/c/e67c59/photofunky.gif"> <br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novasurgithub)](https://github.com/anuraghazra/github-readme-stats) <br>
   <!--<img src="https://discord.c99.nl/widget/theme-1/786717974325100564.png">-->
   <br>
 </p>
