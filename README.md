@@ -4,7 +4,8 @@
   <b>🌠</b><br>
   <a href="https://yonovaa.github.io/novawebsite/">Website</a> |
   <a href="https://twitter.com/cnovaencore">Twitter</a>
-  <br><br> <img src="https://github-readme-stats.vercel.app/api?username=novasurgithub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">   <br>
+  <br><br> <img src="https://github-readme-stats.vercel.app/api?username=novasurgithub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealAlphabet&theme=midnight-purple&layout=compact&hide_border=true&langs_count=8&hide=html,css,blade,makefile,batchfile,shell" /> <br>
   <!--<img src="https://discord.c99.nl/widget/theme-1/786717974325100564.png">-->
   <br>
 </p>
