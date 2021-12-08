@@ -1,8 +1,8 @@
-<h1 align="center">H3ll0 W0rld</h1>
+
 
 <p align="center">
   <b>🌠</b><br>
-  <a href="https://yonovaa.github.io/novawebsite/">Website</a> |
+  <a href="https://novasurgithub.github.io/novawebsite/">Website</a> |
   <a href="https://twitter.com/cnovaencore">Twitter</a>
   <br><br> <img src="https://github-readme-stats.vercel.app/api?username=novasurgithub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
            <br>
